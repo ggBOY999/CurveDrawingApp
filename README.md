@@ -13,3 +13,5 @@
 6、按住右键拖动鼠标可以移动图形  
 7、鼠标滚轮可以对曲线进行缩放  
 8、双击右键清空曲线
+## GitHub地址
+查看https://github.com/ggBOY999/CurveDrawingApp
